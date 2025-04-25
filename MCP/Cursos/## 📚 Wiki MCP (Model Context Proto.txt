@@ -1,0 +1,132 @@
+## 📚 **Wiki MCP (Model Context Protocol)**
+
+https://youtu.be/mjPAJAlhq7g
+
+**Introducción**
+
+- Breve resumen: ¿Qué es MCP?
+- Por qué es importante en IA.
+- Objetivos principales del protocolo.
+
+---
+
+![twitter_1902858692321829238.gif](attachment:69f17b85-e5fa-4ceb-a75c-2d973e54bc29:twitter_1902858692321829238.gif)
+
+## 🧩 **¿Qué es MCP?**
+
+![image.png](attachment:2912a03f-4260-4464-9c8b-12d5441d3984:image.png)
+
+**Definición:**
+
+> El Model Context Protocol (MCP) es un estándar abierto creado por Anthropic en 2024, que permite conectar fácilmente modelos de lenguaje (como ChatGPT o Claude) con datos externos y herramientas en tiempo real.
+> 
+
+**Problema que resuelve:**
+
+- **Evita las integraciones fragmentadas y repetitivas.**
+- **Proporciona un estándar universal para conectar modelos de IA con múltiples fuentes de información.**
+
+---
+
+## ⚙️ **¿Cómo funciona MCP?**
+
+[Aadit Sheth on Twitter / X](https://x.com/aaditsh/status/1898216925580476590)
+
+![image.png](attachment:1ee073b3-d820-4940-9fdc-748977a5e071:image.png)
+
+![image.png](attachment:14cfef6c-e1e8-449b-aebf-1e0503da0c68:image.png)
+
+**Modelo Cliente-Servidor:**
+
+- Cliente (modelo IA): aplicación que utiliza un LLM (por ejemplo, ClaudeDesktop).
+- Servidor MCP: herramienta o interfaz que conecta una fuente externa (Google Drive, Bases de datos, APIs, etc.) con el modelo de IA.
+
+**Flujo básico (paso a paso):**
+
+1. El cliente (IA) inicia una sesión con el servidor MCP.
+2. Solicita información o acciones mediante el protocolo.
+3. El servidor ejecuta la solicitud sobre el sistema externo.
+4. Retorna los resultados en formato JSON estructurado.
+5. El modelo de IA usa estos resultados para generar respuestas más precisas.
+
+---
+
+## 🚀 **Ventajas clave de MCP:**
+
+- Estandarización (similar a LSP en desarrollo de software).
+- Escalabilidad en integraciones de IA.
+- Seguridad controlada en el acceso a datos.
+- Mayor calidad y contexto en respuestas generadas por IA.
+
+---
+
+## 🔍 **Aplicaciones prácticas con ejemplos**
+
+| Caso de uso | Ejemplo práctico |
+| --- | --- |
+| 📁 **Gestión documental** | Consultar documentos actualizados desde Google Drive o Box para responder preguntas internas en tiempo real. |
+| 💻 **Asistente de código** | Permitir a un asistente como Claude acceder a documentación del proyecto, historial de commits o información específica desde GitHub para ayudar a programar con contexto actualizado. |
+| 📊 **Consultas de bases de datos** | Obtener información en tiempo real desde bases de datos para generar respuestas precisas sobre inventarios, ventas, o estadísticas del negocio. |
+| 🔧 **Automatización de tareas** | Crear tickets automáticamente en Jira o enviar correos electrónicos desde el modelo tras solicitudes del usuario usando funciones expuestas por MCP. |
+
+---
+
+## 🚨 **Seguridad y Privacidad**
+
+![image.png](attachment:877e4cf5-e8bb-42ca-baca-1f624ac7281b:image.png)
+
+- MCP permite configurar permisos específicos para proteger la información sensible.
+- Toda interacción se realiza dentro de infraestructura controlada por el usuario u organización, manteniendo siempre los datos protegidos.
+
+---
+
+## 📌 **Herramientas y servidores MCP recomendados**
+
+- [Lista completa de servidores MCP (Awesome MCP Servers)](https://github.com/appcypher/awesome-mcp-servers?tab=readme-ov-file#file-systems)
+
+---
+
+## 🚀 **Guía Rápida de Implementación**
+
+[**Tutorial paso a paso para instalar Node.js**](https://www.notion.so/Tutorial-paso-a-paso-para-instalar-Node-js-1cc36f63bd9081a8a8ceff68eda8f940?pvs=21)
+
+[Tutorial para instalar Claude Desktop - Brave Search & PubMedic](https://www.notion.so/Tutorial-para-instalar-Claude-Desktop-Brave-Search-PubMedic-1cc36f63bd908169ad61de13ba0e2d02?pvs=21)
+
+[Tutorial para instalar Notion MCP](https://www.notion.so/Tutorial-para-instalar-Notion-MCP-1cc36f63bd90815cb3bccefdc61d368d?pvs=21)
+
+[Tutorial para instalar FileSystem](https://www.notion.so/Tutorial-para-instalar-FileSystem-1cc36f63bd9081dfa0d3d5a5f12d99be?pvs=21)
+
+---
+
+## 🧠 **Recursos y documentación oficial**
+
+- [Sitio Oficial MCP (Anthropic)](https://github.com/modelcontextprotocol)
+- [Repositorio GitHub oficial](https://github.com/modelcontextprotocol)
+
+[Tweets Interesantes](https://www.notion.so/Tweets-Interesantes-1cc36f63bd9081f3874bcd90832a09d7?pvs=21)
+
+[Enlaces Extra](https://www.notion.so/Enlaces-Extra-1cc36f63bd9081c8ba29e0d85ab130d4?pvs=21)
+
+---
+
+## 🚀 **Conclusión**
+
+MCP es una poderosa innovación que simplifica la integración de modelos de inteligencia artificial en los flujos de trabajo del mundo real. Al eliminar barreras técnicas y crear una interfaz común, permite desarrollar soluciones robustas, escalables y altamente contextualizadas. **¡Bienvenido al futuro de la IA conectada! 🚀**
+
+---
+
+## Creado por:
+
+### Germán Huertas - Nocodeboy
+
+https://x.com/Nocodeboy
+
+> **Ningún derecho esta reservado. El conocimiento debería ser libre.**
+> 
+
+<aside>
+💡
+
+**Si quieres profundizar en el aprendizaje de estos sistemas pasate por [academynocode.com](http://academynocode.com) o contacta conmigo y te daré toda la información sobre la formación que imparto.**
+
+</aside>
