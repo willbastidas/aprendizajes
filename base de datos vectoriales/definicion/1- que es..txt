@@ -1,0 +1,10 @@
+bases de datos vectoriales: 
+
+
+### Bases de datos vectoriales
+
+Una **base de datos vectorial** es un tipo de sistema de almacenamiento y gestión de datos diseñado específicamente para manejar **vectores** (también llamados *embeddings* o representaciones numéricas multidimensionales). Estas bases de datos son fundamentales en aplicaciones de **inteligencia artificial**, **búsqueda semántica** y **recomendaciones**, donde los datos (como texto, imágenes o audio) se transforman en vectores mediante modelos de machine learning (por ejemplo, LLMs o redes neuronales).
+
+- Permiten búsquedas por similitud (vecinos más cercanos).
+
+- Se diseñan para manejar consultas en milisegundos, incluso con millones de vectores.

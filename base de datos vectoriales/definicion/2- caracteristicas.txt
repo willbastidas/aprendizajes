@@ -1,0 +1,30 @@
+Características principales
+1) Búsqueda de vecinos más cercanos (k-NN)
+
+	Índices especializados (HNSW, IVF, PQ) que aceleran la recuperación de vectores más parecidos.
+
+2) Escalabilidad
+
+	Capacidad de distribuir shards o particiones en múltiples nodos.
+
+	Replicación y balanceo de carga para alta disponibilidad.
+
+3) Índices híbridos
+
+	Combinan búsquedas vectoriales con filtrado por atributos (por ejemplo, metadata como fecha, categoría o etiquetas).
+
+4) Alto rendimiento y baja latencia
+
+	Optimizaciones en memoria y uso de CPU/GPU para respuestas en milisegundos.
+
+5) Actualizaciones en tiempo real
+
+	Inserción y eliminación de vectores sin necesidad de reconstruir completamente el índice.
+
+6) Compatibilidad con múltiples dimensiones
+
+	Manejo de vectores de dimensiones variables (por ejemplo, 128, 512, 1 024), según el modelo de embeddings.
+
+7) Integraciones y APIs
+
+	Conexiones REST, gRPC, SDKs en Python, Java

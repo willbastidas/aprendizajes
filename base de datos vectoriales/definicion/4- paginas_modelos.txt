@@ -1,0 +1,6 @@
+paginas para ver como transformar datos de una base de datos a una base de datos vectoriales.
+
+
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
+este es un modelo especifico existen mas pero se pueden utilizar de distinta manera.

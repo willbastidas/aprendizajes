@@ -1,0 +1,35 @@
+Para qué sirven?
+1) Búsqueda semántica
+
+	Recuperar documentos, párrafos o respuestas similares a una consulta natural (p.ej., motores de búsqueda internos).
+
+2) Recomendaciones
+
+	Encontrar productos, imágenes o contenidos similares a los que un usuario ha visto o comprado.
+
+3) Sistemas de diálogo y RAG (Retrieval-Augmented Generation)
+
+	Combinar embeddings con modelos de lenguaje para generar respuestas contextuales basadas en una base de conocimiento.
+
+4) Detección de anomalías
+
+	Monitorizar vectores de métricas (p.ej., comportamiento de usuarios) y alertar si se apartan excesivamente de patrones normales.
+
+5) Clasificación y clustering
+
+	Agrupar de forma automática datos similares para análisis de segmentación de mercado, detección de comunidades o visión por computador.
+
+6) Visión por computador
+
+	Buscar imágenes por ejemplo (visual search), detección de duplicados o reconocimiento de patrones.
+
+
+
+Casos de uso reales:
+	E-commerce: Sugerir “otros clientes también compraron…” basado en similitud de embeddings de comportamiento de compra.
+
+	Atención al cliente: Recuperar FAQs relevantes según la pregunta del usuario.
+
+	Medicina: Buscar historiales clínicos con síntomas similares.
+
+	Seguridad: Identificar caras similares en sistemas de control de acceso.
