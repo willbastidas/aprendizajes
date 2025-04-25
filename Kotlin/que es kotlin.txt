@@ -1,0 +1,26 @@
+
+Kotlin es un lenguaje de programación moderno y estáticamente tipado desarrollado por JetBrains. Algunas de sus características principales son:
+
+1. **Conciso**: Requiere menos código para lograr lo mismo que en Java.
+2. **Interoperable**: Funciona perfectamente con el código Java, lo que facilita la migración o integración con proyectos existentes.
+3. **Seguro**: Ayuda a evitar errores comunes como los NullPointerExceptions gracias a su manejo de nulabilidad.
+4. **Funcional y orientado a objetos**: Combina características de programación funcional con la programación orientada a objetos.
+5. **Sencilla de aprender**: Su curva de aprendizaje es suave, especialmente si ya conoces Java.
+
+En cuanto a la estructura de carpetas en un proyecto de Kotlin para Android, suele seguir la estructura estándar de Android Studio:
+
+- **`app/`**: Carpeta principal del módulo de la aplicación.
+  ---`src/`**: Contiene el código fuente.
+    ----main/`**: Código fuente principal.
+      ----java/`** o **`kotlin/`**: Código fuente en Kotlin.
+      ----`res/`**: Recursos como layouts, imágenes, etc.
+    ----AndroidManifest.xml`**: Archivo de configuración principal de la app.
+
+Sobre recursos para aprender Kotlin, te recomiendo revisar el canal de YouTube "freeCodeCamp.org" que tiene un curso completo y gratuito de Kotlin para principiantes.
+
+Aquí tienes un link a un curso gratuito muy completo:
+
+[Curso de Kotlin para principiantes - freeCodeCamp](https://youtu.be/T3ugOYTRF7c?si=JafUObrQV_zgBvQX), (https://www.youtube.com/watch?v=vJapzH_46a8&list=PL8ie04dqq7_OcBYDpvHrcSFVoggLi3cm_)
+
+¡Espero que esta info te sirva! Si necesitas más detalles, solo dime.
+[media pointer="sediment://file_00000000522c61f68b3db36310084639"]
