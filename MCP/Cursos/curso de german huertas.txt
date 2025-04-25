@@ -8,3 +8,5 @@ parte 3: https://github.com/appcypher/awesome-mcp-servers?tab=readme-ov-file#fil
 
 
 https://x.com/Nocodeboy
+
+https://notion.so/noocodeboy/Wiki-MCP-Model-Context-Protocol-1b7a26c59bb80d139af5be01ee10e079
